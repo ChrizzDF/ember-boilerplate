@@ -27,7 +27,6 @@
     "@ember/test-helpers": "^2.2.5",
     "@glimmer/component": "^1.0.4",
     "@glimmer/tracking": "^1.0.4",
-    "@tailwindcss/jit": "^0.1.18",
     "autoprefixer": "^10.3.1",
     "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
