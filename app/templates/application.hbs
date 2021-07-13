@@ -1,3 +1,9 @@
 {{page-title 'EmberBoilerplate'}}
 
+<ul>
+  {{#each @model as |user|}}
+    <li>{{user.username}}</li>
+  {{/each}}
+</ul>
+
 {{outlet}}
